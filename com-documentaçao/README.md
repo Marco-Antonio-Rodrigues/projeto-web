@@ -1,9 +1,3 @@
-Claro! Abaixo está um `README.md` **detalhado** para o seu projeto de ordenação com Merge Sort em HTML, CSS e JavaScript. O documento está estruturado para facilitar a leitura tanto do sistema como um todo quanto **de cada arquivo e função** individualmente.
-
----
-
-### 📄 `README.md`
-
 # 📊 Ordenador com Merge Sort (HTML, CSS, JS)
 
 Este projeto é uma aplicação web simples que permite ao usuário digitar uma lista de números, separá-los por vírgulas e ordená-los utilizando o algoritmo **Merge Sort**. A interface exibe os números ordenados em caixas visuais, além de mostrar o **tempo de execução** da ordenação.
