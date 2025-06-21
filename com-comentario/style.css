@@ -1,0 +1,45 @@
+/* Estilo básico do corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 60px auto;
+  text-align: center;
+}
+
+/* Campo de entrada numérica */
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+/* Estilo do botão de ordenação */
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Área onde os resultados são exibidos */
+#resultado {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* Estilo dos quadrados de número ordenado */
+.numero-box {
+  background-color: #f0f0f0;
+  padding: 12px 18px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  font-weight: normal;
+}
